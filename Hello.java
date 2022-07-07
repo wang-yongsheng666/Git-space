@@ -8,7 +8,7 @@ Class Hello {
 	}
 
 	public satic int max(int a, int y) {
-		a = a > b ? a : b;
-		return a;
+		a = a > b ? a : b; //求两个数当中的最大值
+		return a; 
 	}
 }
