@@ -9,6 +9,6 @@ Class Hello {
 
 	public satic int max(int a, int y) {
 		a = a > b ? a : b;
-		return a;
+		return a; //返回最大值
 	}
 }
